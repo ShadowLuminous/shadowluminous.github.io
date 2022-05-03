@@ -5,16 +5,16 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-218253360-1"
 
 # UI configs
-title: "Shadow Luminous by Dhesin Moodley"
+title: "Shadow Luminous by Justin"
 subtitle: "See the world through my eyes!"
-author: "Dhesin Moodley"
+author: "Justin"
 header:
  title: "Shadow Luminous"
- subtitle: "by Dhesin Moodley"
+ subtitle: "by Justin"
 footer:
- name: "Hey there, my name is Dhesin"
+ name: "Hey there, my name is Justin"
  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+ rate: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
 web_design: "AJ"
 social_urls:
   facebook: "https://www.facebook.com/ramswaroop"
