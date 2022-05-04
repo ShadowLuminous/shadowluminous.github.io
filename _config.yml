@@ -18,8 +18,9 @@ footer:
 web_design: "AJ"
 social_urls:
   #facebook: "https://www.facebook.com/ramswaroop"
-  twitter: "https://www.twitter.com/shadowluminous"
+  #twitter: "https://www.twitter.com/shadowluminous"
   instagram: "https://www.instagram.com/shadowluminous"
   #dribbble: "https://dribbble.com/rampatra"
   #linkedin: "https://in.linkedin.com/in/ram-patra"
   #github: "https://www.github.com/rampatra"
+  # In the index file just replace instagram with the respective social media name for the link icons
